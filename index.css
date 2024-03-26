@@ -55,3 +55,15 @@ footer a {
 nav a:hover {
     color: #5bbe42;
 }
+
+.containt {
+    background-color: black;
+}
+
+.contact {
+    background-color: black;
+}
+
+.green a:hover {
+    color: #5bbe42;
+}
