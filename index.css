@@ -18,10 +18,10 @@ a {
 }
 
 header img {
-    width: 150px;
+    width:150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #5bbe42;
+    border: 5px solid #6548e9;
 }
    
 
@@ -30,7 +30,7 @@ text-align: center;
 }
 
 h1 {
-    color: #5bbe42;
+    color: #6548e9;
 }
 
 footer img {
@@ -53,7 +53,7 @@ footer a {
 }
     
 nav a:hover {
-    color: #5bbe42;
+    color: #6548e9;
 }
 
 .containt {
@@ -65,5 +65,5 @@ nav a:hover {
 }
 
 .green a:hover {
-    color: #5bbe42;
+    color: #6548e9;
 }
