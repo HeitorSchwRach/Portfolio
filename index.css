@@ -67,3 +67,12 @@ nav a:hover {
 .green a:hover {
     color: #5bbe42;
 }
+
+.p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img img {
+    width: 565px;
+    height: 275px;
+}
