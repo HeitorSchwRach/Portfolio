@@ -76,3 +76,12 @@ nav a:hover {
     width: 565px;
     height: 275px;
 }
+
+.container-projetos {
+    display: flex;
+}
+.atividade {
+    flex-direction: row;
+    margin: 50px;
+}
+
